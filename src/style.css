@@ -9,14 +9,13 @@
 }
 
 .content{
-    width: 45vw;
+    width: 50vw;
     word-break: break-all;
 }
 
 #div1Wrapper
 {
     width: 50vw;
-    min-height: 20vw;
 }
 
 #div1{

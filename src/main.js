@@ -1,6 +1,8 @@
 let content = document.querySelector(".content");
 let style = document.querySelector("#style");
 let str=`
+
+
 /* 你好我是一名前端新人
 * 接下来我要炫技了 */
 /*先准备背景颜色*/
@@ -62,7 +64,7 @@ let step = () =>{
               step();
              }
         }
-    }, 10);
+    }, 100);
 }
 
 step();
